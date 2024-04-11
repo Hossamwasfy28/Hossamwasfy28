@@ -69,13 +69,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Hossamwasfy28/Hossamwasfy28/output/snake.svg" alt="Snake animation" />
-
 ###########################################################################
 <div align="center">
-  <img height="300" width="600" src="https://img.freepik.com/premium-vector/programmer-is-working-software-cartoon-flat-illustration-freelance-web-developer-with-computer-isolated_97231-152.jpg?w=740"  />
+  <img height="300" width="800" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*jXusXvCfxECPU_Jh9S_E3w.jpeg"  />
 </div>
 
 ###

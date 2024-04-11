@@ -30,7 +30,7 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
 </div>
 
-##########################################################################################################
+#####################################################################################
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hossamwasfy28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 ###########################################################################
 <div align="center">
   <img height="300" width="800" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*jXusXvCfxECPU_Jh9S_E3w.jpeg"  />
